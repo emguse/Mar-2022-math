@@ -1,4 +1,3 @@
-from tkinter import Y
 from sympy import Symbol, solve
 
 x = Symbol('x')
